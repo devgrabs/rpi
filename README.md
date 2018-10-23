@@ -1,7 +1,7 @@
 # Raspberry pi3 Qt5 installer
 
 ## Pre install
-### Raspbian Stretch on Raspberry 3 model B
+### Raspbian 2017-07-05-raspbian-jessie on Raspberry 3 model B
 
 
 sudo apt-get build-dep qt4-x11
