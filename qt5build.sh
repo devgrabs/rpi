@@ -120,8 +120,8 @@ fi
 
 # move raspberrypi target folder "/home/pi/qt5pi" -> /usr/local/
 # sudo mv /home/pi/qt5pi /usr/local/
-
-exit 0
 # qt online installer download
+
 wget http://download.qt.io/official_releases/online_installers/qt-unified-linux-x64-online.run
 chmod +x qt-unified-linux-x64-online.run
+exit 0
